@@ -1,0 +1,15 @@
+{
+  "name": "pkgjsondemo",
+  "version": "1.0.0",
+  "description": "simple pkg demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nakul Shyamkumar",
+  "license": "ISC",
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "express": "^4.16.4"
+  }
+}
